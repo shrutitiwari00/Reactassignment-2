@@ -1,0 +1,24 @@
+.function{
+    background-color: blueviolet;
+    text-align: center;
+    height: 40vh;
+    border-radius: 30px;
+    border: 4px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 5px;
+}
+
+h1{
+    color: black;   
+}
+p{
+    color: blanchedalmond;
+    font-size: 20px;
+}
+.p{
+    color: brown;
+}
